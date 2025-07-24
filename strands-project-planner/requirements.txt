@@ -1,0 +1,20 @@
+# Strands AI Framework and AWS Dependencies
+strands>=0.1.0
+boto3>=1.35.0
+botocore>=1.35.0
+
+# Data handling and validation
+pydantic>=2.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Configuration and environment
+PyYAML>=6.0
+python-dotenv>=1.0.0
+
+# Jupyter notebook support (optional)
+ipython>=8.0.0
+jupyter>=1.0.0
+
+# AWS specific
+awscli>=2.0.0 
